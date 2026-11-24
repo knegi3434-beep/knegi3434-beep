@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Kartik Negi 👋
 
-<!--
-**knegi3434-beep/knegi3434-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech AI & ML Student
 
-Here are some ideas to get you started:
+💻 Aspiring Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🌱 Currently learning Python, Flask and MySQL
+- 🧠 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building real-world projects
+- 🎯 Working towards becoming a Backend / AI-ML Developer
+
+Skills
+
+- Python
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Flask (Learning)
+
+Projects
+
+- SSC GK Quiz Portal (In Progress)
+
+Connect With Me
+
+- GitHub: @knegi3434-beep
